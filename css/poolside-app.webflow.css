@@ -1,0 +1,162 @@
+@media (max-width: 479px) {
+  .topimage {
+    position: relative;
+    height: 250px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(119, 166, 185, .45)), to(rgba(119, 166, 185, .45))), url('../images/swimming-pools-diffazur-23.jpg');
+    background-image: linear-gradient(180deg, rgba(119, 166, 185, .45), rgba(119, 166, 185, .45)), url('../images/swimming-pools-diffazur-23.jpg');
+    background-position: 0px 0px, 50% 50%;
+    background-size: auto, cover;
+    background-repeat: repeat, no-repeat;
+    background-attachment: scroll, scroll;
+  }
+  .customerinfo-wrapper {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 104px;
+    padding: 15px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#f8c246), to(#f8c246));
+    background-image: linear-gradient(180deg, #f8c246, #f8c246);
+  }
+  .paragraph {
+    display: inline-block;
+  }
+  .paragraph-2 {
+    font-family: Montserrat, sans-serif;
+    font-size: 12px;
+  }
+  .form_wrapper {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, .5)), to(hsla(0, 0%, 100%, .5)));
+    background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .5), hsla(0, 0%, 100%, .5));
+  }
+  .form_wrapper._2 {
+    margin-top: 15px;
+  }
+  .form_slider {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-right: 30px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-style: none;
+    border-top-width: 2px;
+    border-top-color: #372d7d;
+    border-bottom-width: 2px;
+    border-bottom-color: #372d7d;
+  }
+  .form_slider:hover {
+    border-style: solid none;
+    border-width: 2px;
+  }
+  .form_slider.servicesperformedbox {
+    padding-left: 20px;
+    border-top: 1px solid #d3d3d3;
+    border-bottom: 2px none #d3d3d3;
+  }
+  .form_slider.servicesperformedbox:hover {
+    border-bottom-style: none;
+    border-bottom-color: #372d7d;
+  }
+  .heading {
+    margin-top: 0px;
+    padding-left: 25px;
+    font-family: Montserrat, sans-serif;
+    color: #372d7d;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+  .body {
+    background-color: #e9e9e9;
+    font-family: Montserrat, sans-serif;
+    color: #372d7d;
+    font-size: 12px;
+  }
+  .heading-2 {
+    position: static;
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .number {
+    display: block;
+    margin-left: 20px;
+  }
+  .form-2 {
+    margin-right: 25px;
+    margin-left: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 2px solid #372d7d;
+    border-bottom: 2px solid #372d7d;
+  }
+  .field-label {
+    font-weight: 400;
+  }
+  .photoinfo {
+    display: block;
+  }
+  .button {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#f8c246), to(#f8c246));
+    background-image: linear-gradient(180deg, #f8c246, #f8c246);
+    color: #372d7d;
+  }
+  .column {
+    padding: 10px 0px 0px;
+  }
+  .column-2 {
+    padding: 10px 0px 10px 10px;
+  }
+  .columns {
+    margin-right: 25px;
+    margin-left: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 2px solid #372d7d;
+    border-bottom: 2px solid #372d7d;
+  }
+  .photowrapper {
+    margin-bottom: 25px;
+  }
+  .button-2 {
+    display: inline-block;
+    width: 70%;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#f5a623), to(#f5a623));
+    background-image: linear-gradient(180deg, #f5a623, #f5a623);
+    color: #372d7d;
+    text-align: center;
+  }
+  .container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+  .pagewrapper {
+    max-width: 360px;
+    min-width: 360px;
+  }
+}
